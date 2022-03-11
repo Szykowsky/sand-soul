@@ -7,6 +7,7 @@
 import { computed, defineComponent } from "vue";
 
 export default defineComponent({
+  name: "NeonParagraph",
   props: {
     style: String,
   },

@@ -12,7 +12,7 @@ import { defineComponent } from "vue";
 import Loading from "@/components/ui/Loading.vue";
 
 export default defineComponent({
-  name: "PrimaryBytton",
+  name: "PrimaryButton",
   components: {
     Loading,
   },
